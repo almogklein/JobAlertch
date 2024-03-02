@@ -251,6 +251,3 @@ class ControlWindow:
         """
         self.m_root_control.quit()
 
-if __name__ == "__main__":
-    control_app = ControlWindow(tk.Tk())
-
