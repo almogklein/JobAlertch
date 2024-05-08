@@ -1,1 +1,1 @@
-![image](https://github.com/almogklein/JobAlertch/assets/90964565/7d5ddfda-6833-4e8a-b999-6c4e3f430b4c)
+![image](https://github.com/almogklein/JobAlertch/assets/90964565/0a2cbe16-92d8-43e6-9c10-d3654715f47f)
